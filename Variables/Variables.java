@@ -1,3 +1,4 @@
+package Variables;
 public class Variables {
     // instance  variable (inside class outside method)
     int roll_no =419;

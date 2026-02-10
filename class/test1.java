@@ -13,16 +13,7 @@ class test {
 
     }
 
-
-
-
-
 }
-
-
-
-
-
 
 
 public class test1 {
